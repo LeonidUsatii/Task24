@@ -26,3 +26,12 @@ button {
   border: 0;
   cursor: pointer;
 }
+
+.Products img {
+  width: 400px;
+}
+
+.Back {
+  color: #f1eded;
+  margin-left: 15px;
+}
